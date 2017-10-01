@@ -1,2 +1,2 @@
 # hello-world
-This is Demo Hello world repositery
+This is Hello world repositery
